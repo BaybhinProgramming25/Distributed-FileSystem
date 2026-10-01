@@ -1,7 +1,7 @@
-package nodes.components;
+package master.components;
 
 public class ChunkServerInfo {
-    
+
     private String address; // i.e. "localhost:9001"
     private long freeSpace; 
     private long lastHeartBeat; // when we last heard it from 
