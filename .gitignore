@@ -3,3 +3,9 @@
 
 # Ignore java .class files
 *.class 
+
+# Ignore out
+out/
+
+# Ignore logs
+logs/

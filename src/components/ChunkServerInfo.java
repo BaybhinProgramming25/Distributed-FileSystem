@@ -1,4 +1,4 @@
-package master.components;
+package components;
 
 public class ChunkServerInfo {
 
